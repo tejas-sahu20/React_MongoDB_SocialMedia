@@ -20,5 +20,6 @@ Express.js
 React.js
 Node.js
 Material-UI
-Contributing
-![ProjectPic](https://github.com/tejas-sahu20/React_MongoDB_SocialMedia/assets/105774310/e11ab9da-47f3-4ad9-b3fe-9e1a4d5a29e5)
+
+
+![project pic](https://github.com/tejas-sahu20/React_MongoDB_SocialMedia/assets/105774310/e118a7e4-689c-4890-bf76-6725bc4f791f)
